@@ -17,6 +17,7 @@ npm run pretest
 # To run the test case
 npm run android
 
+# To Generate Report
 npm run report:allure
 
 ```
