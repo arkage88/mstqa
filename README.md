@@ -17,4 +17,12 @@ npm run pretest
 # To run the test case
 npm run android
 
+```
+
+### Preview
+
+(https://drive.google.com/file/d/1CnE5wozKJ68tHTnqr2_j1tm4FymSRbmI/view?usp=share_link)
+
+(https://drive.google.com/file/d/12ayAImQwmxzEUKRHZyqYsH0FFQP-WhyA/view?usp=share_link)
+
 
